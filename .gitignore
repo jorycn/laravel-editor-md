@@ -1,0 +1,9 @@
+.idea/
+/public/uploads
+/storage/*.key
+/vendor
+.env
+composer.lock
+gulpfile.js
+phpunit.xml
+/public/install.lock
